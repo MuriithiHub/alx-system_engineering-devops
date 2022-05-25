@@ -1,1 +1,1 @@
-Lists all files, including hidden, in long format
+User and group IDs displayed numerically
