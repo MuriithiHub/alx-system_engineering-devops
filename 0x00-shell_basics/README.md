@@ -1,1 +1,1 @@
-User and group IDs displayed numerically
+Creates a directory in the /tmp/ directory
