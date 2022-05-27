@@ -1,1 +1,1 @@
-Lists all files in the current directory, parent of the working directory and the /boot directory in this order
+Prints the type of file named iamafile
