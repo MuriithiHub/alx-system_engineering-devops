@@ -1,1 +1,1 @@
-Deletes my_first_directory in tmp
+Changes working directory to the previous one
