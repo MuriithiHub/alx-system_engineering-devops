@@ -1,1 +1,1 @@
-Deletes file betty in /tmp/my_first_directory
+Deletes my_first_directory in tmp
