@@ -1,1 +1,1 @@
-Changes working directory to the previous one
+Lists all files in the current directory, parent of the working directory and the /boot directory in this order
